@@ -1,2 +1,2 @@
 # latihan-Fetch
-ini hanya sebuah latihan javascript sederhana entah untuk apa
+ini hanya sebuah latihan javascript sederhana untuk fetch api
